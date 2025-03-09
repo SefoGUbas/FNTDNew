@@ -269,6 +269,45 @@
             }
         ]
     },
+    "Trex77x7": {
+        "Type": "Single",
+        "Image": "rbxassetid://124146693947878",
+        "Rarity": "Apex",
+        "PlacePrice": 200,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.25,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 25,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 35000,
+                "Range": 28,
+                "Damage": 30,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 50000,
+                "Range": 32,
+                "Damage": 40,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 70000,
+                "Range": 35,
+                "Damage": 50,
+                "Cooldown": 0.05
+            }
+        ]
+    },
     "Withered Bonnie": {
         "Type": "Single",
         "Image": "rbxassetid://16632217188",
