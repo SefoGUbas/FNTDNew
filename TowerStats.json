@@ -38,6 +38,84 @@
             }
         ]
     },
+    "Orange King": {
+        "Type": "Stun + AOE",
+        "Image": "rbxassetid://110178490978645",
+        "Rarity": "Abbysal",
+        "PlacePrice": 300,
+        "Max": 8,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 100000,
+                "Damage": 100000000000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 500,
+                "Range": 1000000000,
+                "Damage": 100000000000000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 750,
+                "Range": 100000000000000,
+                "Damage": 1000000000000000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1250,
+                "Range": 10000000000000000,
+                "Damage": 10000000000000000,
+                "Cooldown": 0.75
+            }
+        ]
+    },
+    "Old Man Orangeness": {
+        "Type": "Stun + AOE",
+        "Image": "rbxassetid://109611240900899",
+        "Rarity": "Abbysal",
+        "PlacePrice": 300,
+        "Max": 8,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 100000,
+                "Damage": 100000000000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 500,
+                "Range": 1000000000,
+                "Damage": 100000000000000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 750,
+                "Range": 100000000000000,
+                "Damage": 1000000000000000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1250,
+                "Range": 10000000000000000,
+                "Damage": 10000000000000000,
+                "Cooldown": 0.75
+            }
+        ]
+    },
     "Orange Guy": {
         "Type": "Stun + AOE",
         "Image": "rbxassetid://110178490978645",
